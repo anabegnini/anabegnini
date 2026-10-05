@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/ana-clara-begnini"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ac.begnini@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://doi.org/10.5753/stil.2025.37813"><img src="https://img.shields.io/badge/Paper-STIL%202025-6E40C9?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Paper"/></a>
+ alt="Paper"/></a>
 </p>
 
 ---
